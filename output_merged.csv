@@ -1,0 +1,30 @@
+Dim,Description,Comment,Tol (-),Tol (+),XS,,,S,,,M,,,L,,,XL,,
+1B1,ChestWidth,,-1.00,1.00,"Increm
+ent","Sam
+ple","Devia
+tion","Incremen
+t","Sampl
+e",Deviation,"Incremen
+t","Sampl
+e","Deviatio
+n","Incremen
+t","Sampl
+e","Deviatio
+n","Incremen
+t","Sampl
+e","Deviatio
+n"
+1X1,BottomHem Width,,-1.00,1.00,46.00,,,50.00,,,54.00,,,58.00,,,64.00,,
+1F3,AcrossShoulder,,-1.00,1.00,36.00,,,38.00,,,40.00,,,42.00,,,44.00,,
+1F6,ShoulderAngle,,-0.50,0.50,2.50,,,2.50,,,2.50,,,2.50,,,2.50,,
+1G5,SleeveLength (Short),,-1.00,1.00,37.00,,,39.00,,,41.00,,,43.00,,,45.00,,
+1H2,ArmholeDepth,,-0.50,0.50,21.20,,,22.00,,,22.80,,,23.60,,,24.40,,
+3B2,Front Neck Depth,,-0.50,0.50,9.10,,,9.50,,,,,,,,,,,
+3B6,BackNeck Depth,,-0.50,0.50,2.00,,,2.00,,,,,,,,,,,
+1M1,"Front Width (14 cm
+belowHPS)",,-1.00,1.00,33.00,,,35.00,,,,,,,,,,,
+1M4,"BackWidth (12 cm
+belowHPS)",,-1.00,1.00,34.00,,,36.00,,,,,,,,,,,
+1N2,Full BackLength,,-1.00,1.00,60.00,,,62.00,,,,,,,,,,,
+3C1,Rib Widthat Neck,,0.00,0.00,2.00,,,2.00,,,,,,,,,,,
+Displaying 10-15 results,,,,,,,,,,,,,,,,,,,
